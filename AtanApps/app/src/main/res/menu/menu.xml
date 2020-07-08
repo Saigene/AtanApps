@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/list"
+        android:title="List"
+        android:icon="@drawable/customer_list"/>
+    <item android:id="@+id/customer_add"
+        android:title="Add"
+        android:icon="@drawable/customer_add"/>
+    <item android:id="@+id/edit"
+        android:title="Order List"
+        android:icon="@drawable/customer_order_list"/>
+    <item android:id="@+id/profit"
+        android:title="Profit"
+        android:icon="@drawable/invest_profit"/>
+
+</menu>

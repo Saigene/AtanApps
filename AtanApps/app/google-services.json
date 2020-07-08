@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013009073784",
+    "firebase_url": "https://atanapps-9e367.firebaseio.com",
+    "project_id": "atanapps-9e367",
+    "storage_bucket": "atanapps-9e367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013009073784:android:e17779edd83cbeac798f8d",
+        "android_client_info": {
+          "package_name": "com.example.atanapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013009073784-mgl3ihftt46cfbtu30rkbq7dj1kimd1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atanapps",
+            "certificate_hash": "d71ebedf27cb0c42627939d67eed392ce28fa492"
+          }
+        },
+        {
+          "client_id": "1013009073784-dms2ilvi6dbtpq2fqiq7mclbj8fjl4jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gk8F1FtQx7ks-M3q5Q9oZAIUFHJFHHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013009073784-dms2ilvi6dbtpq2fqiq7mclbj8fjl4jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

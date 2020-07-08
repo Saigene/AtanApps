@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtanApps</string>
+    <string name="login_account">Login Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
